@@ -1,0 +1,2310 @@
+{
+  "A": {
+    "a-": [
+      "no",
+      "not",
+      "without"
+    ],
+    "an-": [
+      "no",
+      "not",
+      "without"
+    ],
+    "ab-": [
+      "away",
+      "away from"
+    ],
+    "abdomin/o": [
+      "abdomen"
+    ],
+    "-ac": [
+      "pertaining",
+      "pertaining to"
+    ],
+    "acr/o": [
+      "extremities",
+      "top",
+      "extreme point",
+      "top part",
+      "top point"
+    ],
+    "acous/o": [
+      "hearing"
+    ],
+    "acoust/o": [
+      "hearing",
+      "sound"
+    ],
+    "aden/o": [
+      "gland"
+    ],
+    "ad-": [
+      "toward"
+    ],
+    "adip/o": [
+      "fat"
+    ],
+    "aer/o": [
+      "air"
+    ],
+    "alb/o": [
+      "white"
+    ],
+    "albin/o": [
+      "white"
+    ],
+    "-algia": [
+      "pain"
+    ],
+    "ambul/o": [
+      "to walk",
+      "walking",
+      "walk"
+    ],
+    "amni/o": [
+      "amnion",
+      "amnion sac"
+    ],
+    "an/o": [
+      "anus"
+    ],
+    "andr/o": [
+      "male"
+    ],
+    "angi/o": [
+      "vessel",
+      "blood vessel",
+      "lympy vessel"
+    ],
+    "ankyl/o": [
+      "stiff, crooked"
+    ],
+    "anter/o": [
+      "front"
+    ],
+    "anti-": [
+      "against"
+    ],
+    "aort/o": [
+      "aorta"
+    ],
+    "apic/o": [
+      "apex",
+      "tip"
+    ],
+    "append/o": [
+      "appendix"
+    ],
+    "appendic/o": [
+      "appendix"
+    ],
+    "arteri/o": [
+      "artery"
+    ],
+    "arteriol/o": [
+      "arteriole",
+      "small artery",
+      "artery"
+    ],
+    "arthr/o": [
+      "joint"
+    ],
+    "articul/o": [
+      "joint"
+    ],
+    "aspir/o": [
+      "to breathe in"
+    ],
+    "assay": [
+      "to examine or analyze"
+    ],
+    "aster/o": [
+      "star-shaped"
+    ],
+    "ather/o": [
+      "plaque",
+      "fatty substance"
+    ],
+    "atri/o": [
+      "atrium",
+      "upper heart chamber"
+    ],
+    "audi/o": [
+      "hearing"
+    ],
+    "audit/o": [
+      "hearing"
+    ],
+    "aur/o": [
+      "ear"
+    ],
+    "auricul/o": [
+      "ear"
+    ],
+    "aut/o": [
+      "self"
+    ],
+    "aux/o": [
+      "growth",
+      "acceleration"
+    ],
+    "axill/o": [
+      "armpit"
+    ]
+  },
+  "B": {
+    "bacill/o": [
+      "bacillus",
+      "bacteria"
+    ],
+    "ballist/o": [
+      "to throw",
+      "throw"
+    ],
+    "bar/o": [
+      "pressure",
+      "weight"
+    ],
+    "bas/o": [
+      "base",
+      "opposite of acid"
+    ],
+    "bi-": [
+      "two"
+    ],
+    "bio-": [
+      "life"
+    ],
+    "bil/i": [
+      "bile"
+    ],
+    "bilirubin/o": [
+      "bilirubin",
+      "bile pigment"
+    ],
+    "blasto-": [
+      "germ",
+      "bud"
+    ],
+    "blephar/o": [
+      "eyelid"
+    ],
+    "bol/o": [
+      "to cast",
+      "to throw",
+      "cast",
+      "throw"
+    ],
+    "brachi/o": [
+      "arm"
+    ],
+    "brady-": [
+      "slow"
+    ],
+    "brom/o": [
+      "bromine-containing compound",
+      "odor",
+      "bromine"
+    ],
+    "bronch/o": [
+      "bronchial tube",
+      "bronchial"
+    ],
+    "bronchi/o": [
+      "bronchial tubebronchial"
+    ],
+    "bronchiol/o": [
+      "bronchiole",
+      "small bronchus",
+      "bronchus"
+    ],
+    "bucc/o": [
+      "cheek"
+    ],
+    "burs/o": [
+      "bursa"
+    ],
+    "byssin/o": [
+      "cotton dust"
+    ]
+  },
+  "C": {
+    "calc/o": [
+      "calcium"
+    ],
+    "calci/o": [
+      "calcium"
+    ],
+    "calcul/o": [
+      "to compute",
+      "compute"
+    ],
+    "capit/o": [
+      "head"
+    ],
+    "carcin/o": [
+      "cancerous"
+    ],
+    "cardi/o": [
+      "heart"
+    ],
+    "carp/o": [
+      "wrist bones",
+      "wrist",
+      "bones of wrist"
+    ],
+    "catabol/o": [
+      "breaking down"
+    ],
+    "caud/o": [
+      "tail",
+      "lower part of body",
+      "lower body"
+    ],
+    "cec/o": [
+      "cecum"
+    ],
+    "celi/o": [
+      "belly",
+      "abdomen"
+    ],
+    "cellul/o": [
+      "cell"
+    ],
+    "centesis": [
+      "surgical puncture to remove fluid"
+    ],
+    "cephal/o": [
+      "head"
+    ],
+    "cerebell/o": [
+      "cerebellum"
+    ],
+    "cerebr/o": [
+      "cerebrum"
+    ],
+    "cervic/o": [
+      "neck",
+      "cervix"
+    ],
+    "cheil/o": [
+      "lip"
+    ],
+    "chem/o": [
+      "drug",
+      "chemical"
+    ],
+    "chir/o": [
+      "hand"
+    ],
+    "chlor/o": [
+      "green"
+    ],
+    "chol/e": [
+      "bile",
+      "gall"
+    ],
+    "cholecyst/o": [
+      "gallbladder"
+    ],
+    "cholangi/o": [
+      "bile duct"
+    ],
+    "chondr/o": [
+      "cartilage"
+    ],
+    "chord/o": [
+      "spinal cord"
+    ],
+    "chrom/o": [
+      "color"
+    ],
+    "chron/o": [
+      "time"
+    ],
+    "cili/o": [
+      "eyelash",
+      "microscopic hair-like projection"
+    ],
+    "circulat/o": [
+      "go around in a circle",
+      "circle",
+      "around in circle"
+    ],
+    "cis/o": [
+      "to cut",
+      "cut"
+    ],
+    "clavicul/o": [
+      "clavicle",
+      "collarbone"
+    ],
+    "coagul/o": [
+      "clotting"
+    ],
+    "cocc/i": [
+      "spherical bacteria",
+      "circle bacteria"
+    ],
+    "col/o": [
+      "colon"
+    ],
+    "colon/o": [
+      "colon"
+    ],
+    "colp/o": [
+      "vagina"
+    ],
+    "comi/o": [
+      "to care for",
+      "care"
+    ],
+    "conjunctiv/o": [
+      "conjunctiva"
+    ],
+    "contralater/o": [
+      "opposite side",
+      "opposite"
+    ],
+    "cor/o": [
+      "pupil"
+    ],
+    "coron/o": [
+      "heart"
+    ],
+    "cost/o": [
+      "rib"
+    ],
+    "crani/o": [
+      "skull"
+    ],
+    "cry/o": [
+      "cold"
+    ],
+    "crypt/o": [
+      "hidden"
+    ],
+    "cub/o": [
+      "cube"
+    ],
+    "culd/o": [
+      "cul-de-sac"
+    ],
+    "cutane/o": [
+      "skin"
+    ],
+    "cyan/o": [
+      "blue"
+    ],
+    "cyst/o": [
+      "urinary bladder",
+      "cyst",
+      "sac of fluid"
+    ],
+    "cyt/o": [
+      "cell"
+    ]
+  },
+  "D": {
+    "dacry/o": [
+      "tear",
+      "tear duct"
+    ],
+    "dactyl/o": [
+      "fingers",
+      "toes"
+    ],
+    "de-": [
+      "lack of",
+      "down",
+      "less",
+      "removal of"
+    ],
+    "dent/i": [
+      "tooth"
+    ],
+    "dent/o": [
+      "tooth"
+    ],
+    "derm/o": [
+      "skin"
+    ],
+    "dermat/o": [
+      "skin"
+    ],
+    "desicc/o": [
+      "drying"
+    ],
+    "dextr/o": [
+      "right"
+    ],
+    "di-": [
+      "complete",
+      "through"
+    ],
+    "dia-": [
+      "through",
+      "complete"
+    ],
+    "diagnos/o": [
+      "complete knowledge",
+      "knowledge"
+    ],
+    "diaphor/o": [
+      "sweat"
+    ],
+    "dipl/o": [
+      "double"
+    ],
+    "diplo-": [
+      "double"
+    ],
+    "dist/o": [
+      "far",
+      "distant"
+    ],
+    "diverticul/o": [
+      "diverticulum"
+    ],
+    "dors/o": [
+      "back (of body)"
+    ],
+    "duct/o": [
+      "to lead",
+      "carry"
+    ],
+    "duoden/o": [
+      "duodenum",
+      "first part of the small intestine",
+      "part of the small intestine"
+    ],
+    "dynam/o": [
+      "power",
+      "strength"
+    ],
+    "dys-": [
+      "bad",
+      "painful",
+      "difficult",
+      "abnormal"
+    ]
+  },
+  "E": {
+    "ech/o": [
+      "sound"
+    ],
+    "ec-": [
+      "out",
+      "outside"
+    ],
+    "ecto-": [
+      "outside"
+    ],
+    "ectop/o": [
+      "out of place"
+    ],
+    "edema": [
+      "swelling"
+    ],
+    "elast/o": [
+      "flexible",
+      "stretching"
+    ],
+    "electr/o": [
+      "electricity"
+    ],
+    "embol/o": [
+      "embolus,plug"
+    ],
+    "embry/o": [
+      "embryo",
+      "to be full"
+    ],
+    "emet/o": [
+      "vomit"
+    ],
+    "-emia": [
+      "blood condition"
+    ],
+    "encephal/o": [
+      "brain"
+    ],
+    "end-": [
+      "in",
+      "within"
+    ],
+    "endo-": [
+      "in",
+      "within"
+    ],
+    "enter/o": [
+      "intestines",
+      "small intestines",
+      "small intestine",
+      "intestine"
+    ],
+    "eosin/o": [
+      "red",
+      "rosy",
+      "dawn-colored"
+    ],
+    "epiderm/o": [
+      "skin"
+    ],
+    "epididym/o": [
+      "epididymis"
+    ],
+    "epiglott/o": [
+      "epiglottis"
+    ],
+    "epi-": [
+      "upon",
+      "above"
+    ],
+    "episi/o": [
+      "vulva"
+    ],
+    "equ/i": [
+      "equal",
+      "equality"
+    ],
+    "erythem/o": [
+      "flushed",
+      "redness"
+    ],
+    "erythr/o": [
+      "red"
+    ],
+    "esophag/o": [
+      "esophagus",
+      "tube from mouth to stomach"
+    ],
+    "esthesi/o": [
+      "sensation",
+      "feeling"
+    ],
+    "ethm/o": [
+      "sieve"
+    ],
+    "eti/o": [
+      "cause",
+      "cause of disease"
+    ],
+    "eu-": [
+      "good",
+      "normal"
+    ],
+    "ex-": [
+      "out",
+      "away from"
+    ],
+    "exocrin/o": [
+      "secrete out of"
+    ],
+    "extern/o": [
+      "outside"
+    ],
+    "extra-": [
+      "outside of"
+    ]
+  },
+  "F": {
+    "fac/i": [
+      "face"
+    ],
+    "faci/o": [
+      "face"
+    ],
+    "falc/i": [
+      "sickle-shaped"
+    ],
+    "femor/o": [
+      "femurthigh bone",
+      "femoral"
+    ],
+    "fet/o": [
+      "fetus"
+    ],
+    "fibr/o": [
+      "fiber"
+    ],
+    "fibros/o": [
+      "fibrous",
+      "fibrous connective tissue"
+    ],
+    "fibrin/o": [
+      "fibrinclotting protein"
+    ],
+    "fibul/o": [
+      "fibula"
+    ],
+    "fil/i": [
+      "thread",
+      "thread-like"
+    ],
+    "filament/o": [
+      "thread"
+    ],
+    "flex/o": [
+      "to bend"
+    ],
+    "fluor/o": [
+      "luminous",
+      "fluorescence"
+    ],
+    "foramin/o": [
+      "opening"
+    ],
+    "form/o": [
+      "shape"
+    ],
+    "foss/o": [
+      "shallow depression",
+      "shallow",
+      "depression"
+    ],
+    "fract/o": [
+      "break"
+    ],
+    "front/o": [
+      "forehead",
+      "front"
+    ],
+    "fund/o": [
+      "fundus"
+    ],
+    "fung/i": [
+      "fungus",
+      "mushroom"
+    ],
+    "furc/o": [
+      "forking",
+      "branching"
+    ]
+  },
+  "G": {
+    "galact/o": [
+      "milk"
+    ],
+    "gastr/o": [
+      "stomach"
+    ],
+    "gastrocnemi/o": [
+      "calf muscle",
+      "calf",
+      "calf muscles",
+      "calfs"
+    ],
+    "gel/o": [
+      "to freeze",
+      "congeal"
+    ],
+    "gen/o": [
+      "to produce",
+      "begin"
+    ],
+    "-gen": [
+      "substance that produces"
+    ],
+    "-genesis": [
+      "producing",
+      "forming"
+    ],
+    "genic": [
+      "pertaining to producing"
+    ],
+    "genit/o": [
+      "reproduction"
+    ],
+    "gingiv/o": [
+      "gums"
+    ],
+    "glauc/o": [
+      "gray"
+    ],
+    "gli/o": [
+      "glial cells",
+      "neuroglial cells"
+    ],
+    "glomerul/o": [
+      "glomerulus"
+    ],
+    "gloss/o": [
+      "tongue"
+    ],
+    "gluc/o": [
+      "sugar"
+    ],
+    "glucos/o": [
+      "sugar",
+      "sweetness"
+    ],
+    "glyc/o": [
+      "sugar"
+    ],
+    "glycos/o": [
+      "glucose",
+      "sugar"
+    ],
+    "gnath/o": [
+      "jaw"
+    ],
+    "gon/o": [
+      "seed"
+    ],
+    "gonad/o": [
+      "sex glands",
+      "ovaries",
+      "testes"
+    ],
+    "goni/o": [
+      "angle"
+    ],
+    "grad/i": [
+      "to step",
+      "to go",
+      "go",
+      "step"
+    ],
+    "gram/o": [
+      "record"
+    ],
+    "-gram": [
+      "record"
+    ],
+    "granul/o": [
+      "granule"
+    ],
+    "graph/o": [
+      "writing",
+      "record"
+    ],
+    "-graph": [
+      "instrument for recording",
+      "recorder",
+      "record"
+    ],
+    "-graphy": [
+      "process of recording",
+      "act of recording",
+      "creating a record"
+    ],
+    "gravid/o": [
+      "pregnancy"
+    ],
+    "gynec/o": [
+      "woman",
+      "female"
+    ]
+  },
+  "H": {
+    "halit/o": [
+      "breath"
+    ],
+    "hallucin/o": [
+      "hallucination"
+    ],
+    "hemat/o": [
+      "blood"
+    ],
+    "hem/o": [
+      "blood"
+    ],
+    "hemi-": [
+      "half"
+    ],
+    "hepat/o": [
+      "liver"
+    ],
+    "herni/o": [
+      "hernia"
+    ],
+    "hidr/o": [
+      "sweat"
+    ],
+    "hirsut/o": [
+      "hairy"
+    ],
+    "hist/o": [
+      "tissue"
+    ],
+    "histi/o": [
+      "tissue"
+    ],
+    "hol/o": [
+      "entire",
+      "whole"
+    ],
+    "home/o": [
+      "sameness",
+      "unchanging",
+      "constant"
+    ],
+    "hormon/o": [
+      "hormone"
+    ],
+    "hydr/o": [
+      "water",
+      "fluid"
+    ],
+    "hymen/o": [
+      "hymen"
+    ],
+    "hyper-": [
+      "above",
+      "excessive"
+    ],
+    "hypn/o": [
+      "sleep"
+    ],
+    "hypo-": [
+      "deficient",
+      "below",
+      "under",
+      "less than normal"
+    ],
+    "hypophys/o": [
+      "pituitary gland"
+    ],
+    "hyster/o": [
+      "uterus",
+      "womb"
+    ]
+  },
+  "I": {
+    "iatr/o": [
+      "treatment",
+      "physician"
+    ],
+    "-iatry": [
+      "treatment",
+      "medical specialty"
+    ],
+    "icter/o": [
+      "jaundice"
+    ],
+    "ile/o": [
+      "ileum",
+      "third part of the small intestine",
+      "end of small intestine"
+    ],
+    "ili/o": [
+      "ilium",
+      "pelvic bone"
+    ],
+    "immun/o": [
+      "immune",
+      "protection",
+      "safe"
+    ],
+    "impot/o": [
+      "inability"
+    ],
+    "in-": [
+      "in",
+      "into",
+      "not"
+    ],
+    "in/o": [
+      "fiber"
+    ],
+    "incis/o": [
+      "cut into"
+    ],
+    "infect/o": [
+      "to invade",
+      "to enter"
+    ],
+    "infer/o": [
+      "below"
+    ],
+    "inflammat/o": [
+      "flame",
+      "set on fire"
+    ],
+    "inguin/o": [
+      "groin"
+    ],
+    "inhal/o": [
+      "breathe in"
+    ],
+    "insul/o": [
+      "islands",
+      "pancreas islands"
+    ],
+    "intact/o": [
+      "untouched"
+    ],
+    "inter-": [
+      "between"
+    ],
+    "intra-": [
+      "within"
+    ],
+    "intussuscept/o": [
+      "to receive within"
+    ],
+    "involut/o": [
+      "shrink"
+    ],
+    "ir/o": [
+      "iris",
+      "colored portion of eye",
+      "eye color"
+    ],
+    "irid/o": [
+      "iris"
+    ],
+    "isch/o": [
+      "to hold back",
+      "deficiency",
+      "blockage"
+    ],
+    "ischi/o": [
+      "ischium (part of the pelvic bone)"
+    ]
+  },
+  "J": {
+    "jaund/o": [
+      "yellow"
+    ],
+    "jejun/o": [
+      "jejunum",
+      "second part of the small intestine",
+      "middle small intestine"
+    ],
+    "jugul/o": [
+      "throat"
+    ]
+  },
+  "K": {
+    "kary/o": [
+      "nucleus"
+    ],
+    "keloid/o": [
+      "tumor",
+      "fibrous growth"
+    ],
+    "kerat/o": [
+      "cornea",
+      "hard",
+      "horny tissue"
+    ],
+    "keton/o": [
+      "ketones",
+      "acetones"
+    ],
+    "kinesi/o": [
+      "movement"
+    ],
+    "kin/o": [
+      "movement"
+    ],
+    "klept/o": [
+      "to steal"
+    ],
+    "kyph/o": [
+      "humpback"
+    ]
+  },
+  "L": {
+    "labyrinth/o": [
+      "labyrinth",
+      "inner ear"
+    ],
+    "lact/o": [
+      "milk"
+    ],
+    "lapar/o": [
+      "abdominal wall",
+      "abdomen"
+    ],
+    "laryng/o": [
+      "larynx",
+      "voice box"
+    ],
+    "lat/o": [
+      "side"
+    ],
+    "later/o": [
+      "side"
+    ],
+    "lax/o": [
+      "loose"
+    ],
+    "leiomy/o": [
+      "smooth muscle"
+    ],
+    "lemm/o": [
+      "rind",
+      "husk"
+    ],
+    "lepid/o": [
+      "scale"
+    ],
+    "lept/o": [
+      "thin",
+      "slender"
+    ],
+    "leuk/o": [
+      "white"
+    ],
+    "lex/o": [
+      "word",
+      "phrase"
+    ],
+    "lien/o": [
+      "spleen"
+    ],
+    "ligament/o": [
+      "ligament"
+    ],
+    "lingu/o": [
+      "tongue"
+    ],
+    "lip/o": [
+      "fat",
+      "lipid"
+    ],
+    "lith/o": [
+      "stone",
+      "calculus"
+    ],
+    "lob/o": [
+      "lobe"
+    ],
+    "log/o": [
+      "study of"
+    ],
+    "-logist": [
+      "specialist"
+    ],
+    "-logy": [
+      "study of"
+    ],
+    "lord/o": [
+      "curve",
+      "swayback"
+    ],
+    "lumb/o": [
+      "loin",
+      "lower back"
+    ],
+    "lumin/o": [
+      "light"
+    ],
+    "lun/o": [
+      "moon"
+    ],
+    "lymph/o": [
+      "lymph"
+    ],
+    "lymphaden/o": [
+      "lymph node"
+    ],
+    "lymphangi/o": [
+      "lymph vessel"
+    ],
+    "lys/o": [
+      "dissolution",
+      "destruction"
+    ],
+    "-lysis": [
+      "breakdown",
+      "separation",
+      "destruction",
+      "loosening"
+    ]
+  },
+  "M": {
+    "macr/o": [
+      "large"
+    ],
+    "macul/o": [
+      "spot"
+    ],
+    "magn/o": [
+      "great",
+      "large"
+    ],
+    "mamm/o": [
+      "breast"
+    ],
+    "mandibul/o": [
+      "mandible",
+      "lower jaw bone",
+      "lower jaw"
+    ],
+    "man/i": [
+      "madness"
+    ],
+    "man/o": [
+      "thin",
+      "sparse"
+    ],
+    "mast/o": [
+      "breast"
+    ],
+    "mastoid/o": [
+      "mastoid process"
+    ],
+    "mater/o": [
+      "mother"
+    ],
+    "maxill/o": [
+      "maxilla",
+      "upper jaw bone",
+      "upper jaw"
+    ],
+    "meat/o": [
+      "meatus",
+      "opening"
+    ],
+    "medi/o": [
+      "middle"
+    ],
+    "medic/o": [
+      "to heal",
+      "healing"
+    ],
+    "medull/o": [
+      "medulla",
+      "inner section of brain"
+    ],
+    "meg/a": [
+      "large",
+      "great"
+    ],
+    "melan/o": [
+      "black"
+    ],
+    "men/o": [
+      "menses",
+      "menstruation"
+    ],
+    "mening/o": [
+      "meninges",
+      "membranes covering the brain and spinal cord",
+      "spinal cord covering",
+      "brain covering"
+    ],
+    "meningi/o": [
+      "meninges"
+    ],
+    "ment/o": [
+      "mind",
+      "chin"
+    ],
+    "mes/o": [
+      "middle"
+    ],
+    "metacarp/o": [
+      "metacarpals",
+      "hand bones"
+    ],
+    "metatars/o": [
+      "metatarsals",
+      "foot bones"
+    ],
+    "metri/o": [
+      "uterus",
+      "womb"
+    ],
+    "metr/o": [
+      "uterus",
+      "womb",
+      "measure"
+    ],
+    "micro/o": [
+      "small"
+    ],
+    "mictur/o": [
+      "to urinate"
+    ],
+    "mili/o": [
+      "thousandth"
+    ],
+    "mim/o": [
+      "imitation"
+    ],
+    "mind/o": [
+      "to chew"
+    ],
+    "mio-": [
+      "smaller",
+      "less"
+    ],
+    "mit/o": [
+      "thread"
+    ],
+    "mon/o": [
+      "one",
+      "single"
+    ],
+    "morph/o": [
+      "shape",
+      "form"
+    ],
+    "mort/o": [
+      "death"
+    ],
+    "muc/o": [
+      "mucus"
+    ],
+    "mucos/o": [
+      "mucous membrane"
+    ],
+    "muscul/o": [
+      "muscle"
+    ],
+    "my/o": [
+      "muscle"
+    ],
+    "myc/o": [
+      "fungus"
+    ],
+    "myel/o": [
+      "spinal cord",
+      "bone marrow"
+    ],
+    "myocardi/o": [
+      "myocardium",
+      "heart muscle"
+    ],
+    "myom/o": [
+      "muscle tumor"
+    ],
+    "myos/o": [
+      "muscle"
+    ],
+    "myring/o": [
+      "tympanic membrane",
+      "eardrum"
+    ]
+  },
+  "N": {
+    "narc/o": [
+      "stupor",
+      "numbness",
+      "sleep"
+    ],
+    "nas/o": [
+      "nose"
+    ],
+    "nat/o": [
+      "birth"
+    ],
+    "nause/o": [
+      "nausea",
+      "seasickness"
+    ],
+    "navicul/o": [
+      "navicular",
+      "boat-shaped bone"
+    ],
+    "necr/o": [
+      "death",
+      "death of cells"
+    ],
+    "nect/o": [
+      "to bind",
+      "tie",
+      "connect",
+      "bind"
+    ],
+    "nephr/o": [
+      "kidney"
+    ],
+    "neur/o": [
+      "nerve"
+    ],
+    "neutr/o": [
+      "neither",
+      "neutral"
+    ],
+    "nid/o": [
+      "nest"
+    ],
+    "noci/o": [
+      "to cause harm",
+      "injury",
+      "pain",
+      "cause harm",
+      "harm"
+    ],
+    "noct/o": [
+      "night"
+    ],
+    "nod/o": [
+      "knot"
+    ],
+    "nomen/o": [
+      "name"
+    ],
+    "non-": [
+      "not"
+    ],
+    "norm/o": [
+      "rule",
+      "order"
+    ],
+    "nos/o": [
+      "disease"
+    ],
+    "nucle/o": [
+      "nucleus"
+    ],
+    "nutri/o": [
+      "to nourish"
+    ],
+    "nyct/o": [
+      "night"
+    ]
+  },
+  "O": {
+    "obstetr/o": [
+      "pregnancy",
+      "childbirth"
+    ],
+    "ocul/o": [
+      "eye"
+    ],
+    "odyn/o": [
+      "pain"
+    ],
+    "odont/o": [
+      "tooth"
+    ],
+    "olfact/o": [
+      "smell"
+    ],
+    "om/o": [
+      "shoulder"
+    ],
+    "omphal/o": [
+      "navel",
+      "umbilicus"
+    ],
+    "onc/o": [
+      "tumor"
+    ],
+    "onych/o": [
+      "nail"
+    ],
+    "o/o": [
+      "egg"
+    ],
+    "oophor/o": [
+      "ovary"
+    ],
+    "opt/o": [
+      "eye",
+      "vision"
+    ],
+    "optic/o": [
+      "eye",
+      "vision"
+    ],
+    "or/o": [
+      "mouth"
+    ],
+    "orchi/o": [
+      "testis"
+    ],
+    "orchid/o": [
+      "testis"
+    ],
+    "organ/o": [
+      "organ"
+    ],
+    "orth/o": [
+      "straight"
+    ],
+    "osm/o": [
+      "smell"
+    ],
+    "osche/o": [
+      "scrotum"
+    ],
+    "ossicul/o": [
+      "ossicle",
+      "small bone"
+    ],
+    "oste/o": [
+      "bone"
+    ],
+    "ot/o": [
+      "ear"
+    ],
+    "ov/o": [
+      "egg"
+    ],
+    "ovari/o": [
+      "ovary"
+    ],
+    "oxid/o": [
+      "oxygen"
+    ],
+    "ox/o": [
+      "oxygen"
+    ],
+    "oxy-": [
+      "swift",
+      "sharp",
+      "oxygen"
+    ]
+  },
+  "P": {
+    "pachy/o": [
+      "thick"
+    ],
+    "palat/o": [
+      "palate",
+      "roof of mouth"
+    ],
+    "pale/o": [
+      "old"
+    ],
+    "palliat/o": [
+      "to soothe or relieve",
+      "soothe",
+      "relieve"
+    ],
+    "palpebr/o": [
+      "eyelid"
+    ],
+    "pancreat/o": [
+      "pancreas"
+    ],
+    "papill/o": [
+      "nipple-like",
+      "optic disc"
+    ],
+    "par-": [
+      "other than",
+      "abnormal"
+    ],
+    "para-": [
+      "beside",
+      "near",
+      "abnormal",
+      "apart from",
+      "along the side of"
+    ],
+    "pariet/o": [
+      "wall"
+    ],
+    "patell/o": [
+      "patella",
+      "kneecap"
+    ],
+    "path/o": [
+      "disease"
+    ],
+    "-pathy": [
+      "disease",
+      "emotion"
+    ],
+    "pector/o": [
+      "chest"
+    ],
+    "ped/o": [
+      "child"
+    ],
+    "pedicul/o": [
+      "louse"
+    ],
+    "pelv/o": [
+      "pelvis",
+      "pelvic bone",
+      "pelvic"
+    ],
+    "pen/o": [
+      "penis"
+    ],
+    "percuss/o": [
+      "to tap",
+      "tap",
+      "hit",
+      "bang"
+    ],
+    "pericardi/o": [
+      "pericardium"
+    ],
+    "perine/o": [
+      "perineum"
+    ],
+    "peri-": [
+      "surrounding"
+    ],
+    "peritone/o": [
+      "peritoneum"
+    ],
+    "phac/o": [
+      "lens of the eye",
+      "lens"
+    ],
+    "phag/o": [
+      "to eat",
+      "swallow",
+      "eat"
+    ],
+    "-phagia": [
+      "eating",
+      "swallowing",
+      "act of eating",
+      "act of swallowing"
+    ],
+    "phalang/o": [
+      "phalanges",
+      "finger bones",
+      "toe bones",
+      "bones of fingers and toes"
+    ],
+    "phall/o": [
+      "penis"
+    ],
+    "pharyng/o": [
+      "pharynx",
+      "throat"
+    ],
+    "phleb/o": [
+      "vein"
+    ],
+    "phon/o": [
+      "sound",
+      "voice"
+    ],
+    "phor/o": [
+      "to bear"
+    ],
+    "phot/o": [
+      "light"
+    ],
+    "phren/o": [
+      "diaphragm",
+      "mind"
+    ],
+    "phyl/o": [
+      "race",
+      "species",
+      "type"
+    ],
+    "physi/o": [
+      "nature",
+      "function"
+    ],
+    "pil/o": [
+      "hair"
+    ],
+    "pineal/o": [
+      "pineal gland"
+    ],
+    "pituitar/o": [
+      "pituitary gland",
+      "pituitary gland"
+    ],
+    "plant/o": [
+      "sole of the foot",
+      "soles",
+      "bottom of feet"
+    ],
+    "plas/o": [
+      "formation",
+      "development"
+    ],
+    "plasm/o": [
+      "plasma"
+    ],
+    "-plasia": [
+      "formation",
+      "growth"
+    ],
+    "-plasty": [
+      "surgical repair"
+    ],
+    "pleur/o": [
+      "pleura",
+      "membrane around lungs",
+      "lung membrane"
+    ],
+    "pneum/o": [
+      "lung",
+      "air",
+      "gas"
+    ],
+    "pneumon/o": [
+      "lung"
+    ],
+    "pod/o": [
+      "foot"
+    ],
+    "poikil/o": [
+      "varied",
+      "irregular"
+    ],
+    "polio/o": [
+      "gray matter"
+    ],
+    "poly-": [
+      "many",
+      "much"
+    ],
+    "pont/o": [
+      "pons"
+    ],
+    "poster/o": [
+      "back",
+      "behind"
+    ],
+    "prandi/o": [
+      "meal"
+    ],
+    "presby/o": [
+      "old age"
+    ],
+    "prim/i": [
+      "first"
+    ],
+    "proct/o": [
+      "anus",
+      "rectum"
+    ],
+    "proxim/o": [
+      "near"
+    ],
+    "psych/o": [
+      "mind"
+    ],
+    "pseud/o": [
+      "false"
+    ],
+    "psor/o": [
+      "itching"
+    ],
+    "pub/o": [
+      "pubis",
+      "pubic"
+    ],
+    "pulmon/o": [
+      "lung"
+    ],
+    "puls/o": [
+      "to beat",
+      "beating",
+      "beat"
+    ],
+    "pupill/o": [
+      "pupil"
+    ],
+    "py/o": [
+      "pus"
+    ],
+    "pyr/o": [
+      "fever",
+      "fire"
+    ],
+    "pyret/o": [
+      "fever"
+    ],
+    "pyrex/o": [
+      "feverish"
+    ]
+  },
+  "Q": {
+    "quadr/i": [
+      "four"
+    ],
+    "quadrant/o": [
+      "a quarter",
+      "quarter"
+    ],
+    "quant/o": [
+      "amount",
+      "quantity"
+    ],
+    "quer/o": [
+      "ask",
+      "seek"
+    ],
+    "quiesc/o": [
+      "to rest",
+      "be quiet",
+      "rest",
+      "quiet"
+    ]
+  },
+  "R": {
+    "radi/o": [
+      "x-rays",
+      "radiation",
+      "xray",
+      "x ray"
+    ],
+    "radicul/o": [
+      "nerve root",
+      "root of nerve"
+    ],
+    "ram/i": [
+      "branch"
+    ],
+    "rect/o": [
+      "rectum"
+    ],
+    "ren/o": [
+      "kidney"
+    ],
+    "retin/o": [
+      "retina"
+    ],
+    "retr/o": [
+      "backward",
+      "behind"
+    ],
+    "rhabdomy/o": [
+      "skeletal (striated) muscle",
+      "straiated muscle",
+      "skeletal muscle"
+    ],
+    "rheumat/o": [
+      "flow",
+      "fluid"
+    ],
+    "rhin/o": [
+      "nose"
+    ],
+    "rhythm/o": [
+      "rhythm"
+    ],
+    "roentgen/o": [
+      "x-rays"
+    ],
+    "rot/o": [
+      "turn",
+      "revolve"
+    ],
+    "rubr/o": [
+      "red"
+    ],
+    "rubeol/o": [
+      "rubeola",
+      "measles"
+    ],
+    "rupt/o": [
+      "break",
+      "burst"
+    ]
+  },
+  "S": {
+    "sacr/o": [
+      "sacrum"
+    ],
+    "salping/o": [
+      "fallopian tube",
+      "auditory (eustachian) tube",
+      "auditory tube",
+      "eustachian tube"
+    ],
+    "sanguin/o": [
+      "blood"
+    ],
+    "sarc/o": [
+      "flesh",
+      "connective tissue"
+    ],
+    "scapul/o": [
+      "scapula",
+      "shoulder blade"
+    ],
+    "schiz/o": [
+      "split"
+    ],
+    "scier/o": [
+      "hard"
+    ],
+    "scler/o": [
+      "sclera",
+      "white of eye",
+      "hard",
+      "eye white"
+    ],
+    "scoli/o": [
+      "crooked",
+      "bent"
+    ],
+    "seb/o": [
+      "sebum",
+      "oil"
+    ],
+    "sect/o": [
+      "to cut",
+      "cut"
+    ],
+    "semen/o": [
+      "semen",
+      "seed"
+    ],
+    "semi-": [
+      "half"
+    ],
+    "sept/o": [
+      "infection",
+      "partition"
+    ],
+    "ser/o": [
+      "serum",
+      "serous"
+    ],
+    "serumin/o": [
+      "serum"
+    ],
+    "sial/o": [
+      "saliva"
+    ],
+    "sigmoid/o": [
+      "sigmoid colon",
+      "sigmoid"
+    ],
+    "sinistr/o": [
+      "left"
+    ],
+    "sinus/o": [
+      "sinus",
+      "cavity"
+    ],
+    "skelet/o": [
+      "skeleton"
+    ],
+    "somat/o": [
+      "body"
+    ],
+    "somn/o": [
+      "sleep"
+    ],
+    "son/o": [
+      "sound"
+    ],
+    "sopor/o": [
+      "sleep"
+    ],
+    "spermat/o": [
+      "sperm"
+    ],
+    "sperm/o": [
+      "spermatozoa",
+      "sperm cells"
+    ],
+    "sphen/o": [
+      "wedge",
+      "sphenoid bone"
+    ],
+    "sphincter/o": [
+      "sphincter muscle"
+    ],
+    "spher/o": [
+      "round",
+      "globe-shaped"
+    ],
+    "spin/o": [
+      "spine",
+      "backbone"
+    ],
+    "splen/o": [
+      "spleen"
+    ],
+    "spondyl/o": [
+      "vertebra",
+      "backbone"
+    ],
+    "stern/o": [
+      "sternum",
+      "breastbone"
+    ],
+    "steth/o": [
+      "chest"
+    ],
+    "stomat/o": [
+      "mouth"
+    ],
+    "strept/o": [
+      "twisted chains"
+    ],
+    "sub-": [
+      "under",
+      "below"
+    ],
+    "super-": [
+      "above",
+      "upper"
+    ],
+    "supin/o": [
+      "to lie on the back",
+      "lay on back",
+      "lay back",
+      "lie back"
+    ],
+    "sym-": [
+      "together",
+      "with"
+    ],
+    "syn-": [
+      "together",
+      "with"
+    ],
+    "synov/o": [
+      "synovial membrane",
+      "synovial fluid"
+    ],
+    "systol/o": [
+      "contraction"
+    ]
+  },
+  "T": {
+    "tachy-": [
+      "fast"
+    ],
+    "tal/o": [
+      "talus",
+      "ankle bone",
+      "ankle"
+    ],
+    "tars/o": [
+      "tarsals",
+      "ankle bones",
+      "ankle"
+    ],
+    "tax/o": [
+      "coordination",
+      "order"
+    ],
+    "techn/o": [
+      "skill",
+      "art"
+    ],
+    "tel/o": [
+      "end",
+      "complete"
+    ],
+    "tempor/o": [
+      "temple",
+      "side of head"
+    ],
+    "ten/o": [
+      "tendon"
+    ],
+    "tend/o": [
+      "tendon"
+    ],
+    "tendin/o": [
+      "tendon"
+    ],
+    "tens/o": [
+      "stretched",
+      "strained"
+    ],
+    "terat/o": [
+      "monster",
+      "malformed fetus"
+    ],
+    "test/o": [
+      "testis",
+      "testicle"
+    ],
+    "testicul/o": [
+      "testicle"
+    ],
+    "tetra-": [
+      "four"
+    ],
+    "thanat/o": [
+      "death"
+    ],
+    "the/o": [
+      "to put",
+      "place",
+      "put"
+    ],
+    "thec/o": [
+      "sheath"
+    ],
+    "therap/o": [
+      "treatment"
+    ],
+    "therm/o": [
+      "heat"
+    ],
+    "thorac/o": [
+      "chest"
+    ],
+    "thromb/o": [
+      "clot"
+    ],
+    "thym/o": [
+      "thymus gland",
+      "thymus"
+    ],
+    "thyroid/o": [
+      "thyroid gland",
+      "thyroid"
+    ],
+    "tibi/o": [
+      "tibia",
+      "shin bone"
+    ],
+    "toc/o": [
+      "labor",
+      "birth"
+    ],
+    "tom/o": [
+      "to cut",
+      "cut"
+    ],
+    "ton/o": [
+      "tension",
+      "pressure"
+    ],
+    "top/o": [
+      "place",
+      "position",
+      "location"
+    ],
+    "tox/o": [
+      "poison"
+    ],
+    "toxic/o": [
+      "poison"
+    ],
+    "trache/o": [
+      "trachea",
+      "windpipe",
+      "wind pipe"
+    ],
+    "trans-": [
+      "across",
+      "through"
+    ],
+    "traumat/o": [
+      "injury"
+    ],
+    "trem/o": [
+      "trembling",
+      "shaking"
+    ],
+    "tri-": [
+      "three"
+    ],
+    "trich/o": [
+      "hair"
+    ],
+    "troph/o": [
+      "nourishment",
+      "development"
+    ],
+    "trop/o": [
+      "turn",
+      "change"
+    ],
+    "tubal/o": [
+      "tube"
+    ],
+    "tubercul/o": [
+      "little swelling"
+    ],
+    "tympan/o": [
+      "eardrum",
+      "tympanic membrane"
+    ]
+  },
+  "U": {
+    "uln/o": [
+      "ulna",
+      "fore arm",
+      "forearm"
+    ],
+    "ultra-": [
+      "beyond",
+      "excess"
+    ],
+    "umbilic/o": [
+      "navel",
+      "umbilicus"
+    ],
+    "un/o": [
+      "one"
+    ],
+    "ungui/o": [
+      "nail"
+    ],
+    "ur/o": [
+      "urine",
+      "urinary tract"
+    ],
+    "ureter/o": [
+      "ureter"
+    ],
+    "urethr/o": [
+      "urethra"
+    ],
+    "urin/o": [
+      "urine"
+    ],
+    "uter/o": [
+      "uterus",
+      "womb"
+    ],
+    "uvul/o": [
+      "uvula"
+    ]
+  },
+  "V": {
+    "vaccin/o": [
+      "vaccine"
+    ],
+    "vag/o": [
+      "vagus nerve"
+    ],
+    "vagin/o": [
+      "vagina"
+    ],
+    "valv/o": [
+      "valve"
+    ],
+    "valvul/o": [
+      "valve"
+    ],
+    "varic/o": [
+      "varicose veins",
+      "varicose"
+    ],
+    "vas/o": [
+      "vessel",
+      "duct",
+      "vas deferens"
+    ],
+    "vascul/o": [
+      "blood vessel"
+    ],
+    "ven/o": [
+      "vein"
+    ],
+    "ven/i": [
+      "vein"
+    ],
+    "venul/o": [
+      "venule",
+      "small vein"
+    ],
+    "ventr/o": [
+      "belly side of body",
+      "belly"
+    ],
+    "verruc/o": [
+      "wart"
+    ],
+    "vers/o": [
+      "to turn",
+      "turn"
+    ],
+    "vertebr/o": [
+      "vertebra",
+      "backbone"
+    ],
+    "vesic/o": [
+      "urinary bladder",
+      "bladder"
+    ],
+    "vestibul/o": [
+      "vestibule",
+      "inner ear"
+    ],
+    "vir/o": [
+      "virus"
+    ],
+    "viscer/o": [
+      "internal organs"
+    ],
+    "vit/o": [
+      "life"
+    ],
+    "vitre/o": [
+      "glass",
+      "vitreous body (of the eye)",
+      "vitreous body"
+    ],
+    "vulv/o": [
+      "vulva",
+      "external female genitalia"
+    ]
+  },
+  "W": {
+    "wax/o": [
+      "wax"
+    ],
+    "well/o": [
+      "healthy"
+    ],
+    "whit/o": [
+      "white"
+    ],
+    "wheez/o": [
+      "wheeze",
+      "whistling sound"
+    ],
+    "whole/o": [
+      "entire",
+      "unbroken"
+    ],
+    "wrist/o": [
+      "wrist"
+    ]
+  },
+  "X": {
+    "xanth/o": [
+      "yellow"
+    ],
+    "xen/o": [
+      "foreign",
+      "strange"
+    ],
+    "xer/o": [
+      "dry"
+    ],
+    "xiph/o": [
+      "sword"
+    ],
+    "xiph/o/id": [
+      "xiphoid process",
+      "lower sternum"
+    ]
+  },
+  "Y": {
+    "y/o": [
+      "year old"
+    ],
+    "yawn/o": [
+      "yawn",
+      "involuntary inhalation",
+      "involuntary inhale"
+    ],
+    "yellow/o": [
+      "yellow"
+    ]
+  },
+  "Z": {
+    "zo/o": [
+      "animal life"
+    ],
+    "zyg/o": [
+      "union",
+      "junction",
+      "pair"
+    ],
+    "zygomat/o": [
+      "cheekbone"
+    ],
+    "zoster/o": [
+      "girdle",
+      "belt"
+    ]
+  }
+}
