@@ -20,12 +20,12 @@ questions_answered = 0
 questions_answered_correctly = 0
 
 def answer_length(answer_list):
-    if len(random_wordpart_value) == 1:
-        return random_wordpart_value[0]
-    elif len(random_wordpart_value) == 2:
-        return random_wordpart_value[0] + " or " + random_wordpart_value[1]
+    if len(answer_list) == 1:
+        return answer_list[0]
+    elif len(answer_list) == 2:
+        return answer_list[0] + " or " + answer_list[1]
     else:
-        return ", ".join(random_wordpart_value[:-1]) + ", or " + random_wordpart_value[-1]
+        return ", ".join(answer_list[:-1]) + ", or " + answer_list[-1]
     
 playing_game = True
 
