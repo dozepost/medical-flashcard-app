@@ -15,11 +15,15 @@ def retrieve_random_word_parts(data):
     random_wordpart_value = random_wordpart_dict[random_wordpart_key] #pulls values from that key
     return random_wordpart_key, random_wordpart_value
 
+
+def give_feedback():
+     
+
 user_score = 0
 questions_answered = 0
 questions_answered_correctly = 0
 
-def answer_length(answer_list):
+def format_answer_list(answer_list):
     if len(answer_list) == 1:
         return answer_list[0]
     elif len(answer_list) == 2:
@@ -49,7 +53,7 @@ while playing_game:
                 user_score += 1
                 questions_answered_correctly += 1
             else: 
-                    print(f"{answer_length(random_wordpart_value).title()} was the correct answer. 0 points.")
+                    print(f"{format_answer_list(random_wordpart_value).title()} was the correct answer. 0 points.")
         
         questions_answered += 1
         print(f"You current score is {user_score}. You've answered {questions_answered_correctly}/{questions_answered} correctly.")
