@@ -5,23 +5,19 @@
 import random
 import json
 
-with open("medical_dictionaries.json", "r") as f:
-    medical_word_parts_merged_by_letter = json.load(f)
-
-def retrieve_random_word_parts(data):
-    random_letter = random.choice(list(medical_word_parts_merged_by_letter.keys())) #fetches random dictionary letter
-    random_wordpart_dict = medical_word_parts_merged_by_letter[random_letter] #pulls dictionary for that letter
-    random_wordpart_key = random.choice(list(random_wordpart_dict.keys())) #choose random key of that dictionary
-    random_wordpart_value = random_wordpart_dict[random_wordpart_key] #pulls values from that key
-    return random_wordpart_key, random_wordpart_value
-
-
-def give_feedback():
-     
-
 user_score = 0
 questions_answered = 0
 questions_answered_correctly = 0
+
+with open("medical_dictionaries.json", "r") as f:
+    medical_word_parts_merged_by_letter = json.load(f)
+
+def retrieve_random_key_values(data):
+    random_category = random.choice(list(data.keys())) #fetches random dictionary letter
+    inner_dict = data[random_category] #pulls dictionary for that letter
+    random_key = random.choice(list(inner_dict.keys())) #choose random key of that dictionary
+    random_value = inner_dict[random_key] #pulls values from that key
+    return random_key, random_value
 
 def format_answer_list(answer_list):
     if len(answer_list) == 1:
@@ -30,34 +26,38 @@ def format_answer_list(answer_list):
         return answer_list[0] + " or " + answer_list[1]
     else:
         return ", ".join(answer_list[:-1]) + ", or " + answer_list[-1]
-    
+
+def evaluate_user_input(user_input, correct_answers, is_retry=False):
+    if user_input in correct_answers:
+        score = 1 if is_retry else 2
+        message = "Spare! 1 point." if is_retry else "Correct, 2 points; good job!"
+        return score, message
+    else:
+        return 0, f"{format_answer_list(correct_answers).title()} was the correct answer. 0 points."
+
+def handle_question(prompt, correct_answers):
+    user_input = input(prompt + "\nAnswer: ")
+    if user_input.lower() == "skip":
+        return 0, "Skipping, no points gained or lost", False
+    score, message = evaluate_user_input(user_input, correct_answers)
+    if score > 0:
+        return score, message, True
+    retry_input = input(f"{user_input.title()} is incorrect, please try again: ")
+    score, message = evaluate_user_input(retry_input, correct_answers, is_retry=True)
+    return score, message, score > 0
+
 playing_game = True
 
-while playing_game:  
-    random_wordpart_key, random_wordpart_value = retrieve_random_word_parts(medical_word_parts_merged_by_letter)
-    print(f"What does {random_wordpart_key} mean? (Type 'Skip' to get a new question.)")
-    user_input = input("Answer: ")
-
-    if user_input.lower() == "skip":
-            print("Skipping, no points gained or lost")
-    else:
-        if user_input in random_wordpart_value:
-            print("Correct! 2 points!")
-            user_score += 2
-            questions_answered_correctly += 1
-        else: 
-            retry_input = input(f"{user_input.title()} is incorrect, please try again: ") 
-            
-            if retry_input in random_wordpart_value:
-                print("Spare! 1 point")
-                user_score += 1
-                questions_answered_correctly += 1
-            else: 
-                    print(f"{format_answer_list(random_wordpart_value).title()} was the correct answer. 0 points.")
-        
-        questions_answered += 1
-        print(f"You current score is {user_score}. You've answered {questions_answered_correctly}/{questions_answered} correctly.")
-    again = input("Would you like another term? (y/n): ").lower()
-    if again != "y":
+while playing_game:
+    term, answer = retrieve_random_key_values(medical_word_parts_merged_by_letter)
+    prompt = f"What does {term} mean? (Type 'skip' to get a new question.)"
+    score, message, correct = handle_question(prompt, answer)
+    print(message)
+    user_score += score
+    questions_answered += 1
+    if score > 0:
+      questions_answered_correctly += 1
+    play_again = input("Would you like to go again? (Y/N): ").lower()
+    if play_again in ("n", "no"):
         playing_game = False
-        print(f"See you next time!")
+        print("Goodbye!")
